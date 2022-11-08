@@ -19,3 +19,8 @@ Click the "build" stage. Expand the steps to view the console log of each of the
 Click the "test" stage. Expand the steps to view the console log of each step.
 
 ![Image 27](./assets/27.png)
+
+Click the "X" at the top-right to return to the main Blue Ocean interface.
+Whenever there are new commits in the Git repository, you may click "Run" to execute the pipeline.
+
+![Image 28](./assets/28.png)
