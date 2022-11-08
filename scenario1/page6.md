@@ -24,3 +24,17 @@ Click the "X" at the top-right to return to the main Blue Ocean interface.
 Whenever there are new commits in the Git repository, you may click "Run" to execute the pipeline.
 
 ![Image 28](./assets/28.png)
+
+Click "run 2" and click "Tests" tag to view the results of executing the automated tests.
+
+![Image 29](./assets/29.png)
+
+Click the exit icon to go back to the classic view.
+
+![Image 30](./assets/30.png)
+
+You may view the build history and the test results in the dashboard.
+
+![Image 31](./assets/31.png)
+
+<br/>
